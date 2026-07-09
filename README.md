@@ -59,6 +59,14 @@ pip install -r requirements.txt
 ```bash
 python BERT_AGNews.py
 ```
+<img width="638" height="315" alt="image" src="https://github.com/user-attachments/assets/9106fb3c-ca5f-4cbc-9ca3-def67eb088c1" />
+<img width="640" height="314" alt="image" src="https://github.com/user-attachments/assets/6b57c65c-9045-45b5-b3c4-4306bf351f20" />
+<img width="640" height="319" alt="image" src="https://github.com/user-attachments/assets/f6ab83c2-2cb9-449f-b6ca-f404e3ad5fad" />
+<img width="640" height="321" alt="image" src="https://github.com/user-attachments/assets/000e88b3-2343-4022-ae70-40609e2f30b7" />
+<img width="636" height="319" alt="image" src="https://github.com/user-attachments/assets/0a50affa-6503-4f10-8d9d-e47ef14a41b5" />
+<img width="640" height="317" alt="image" src="https://github.com/user-attachments/assets/332b6be3-3c38-401a-b9b5-88165620b590" />
+<img width="640" height="317" alt="image" src="https://github.com/user-attachments/assets/89643870-b117-4ca1-bdf7-151fb19ee126" />
+
 
 Or open:
 
